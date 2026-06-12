@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C70CF9E-534B-496E-B5F9-944A48F70979}|SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi.tests\\e2etests\\bibliotecae2etests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C70CF9E-534B-496E-B5F9-944A48F70979}|SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj|solutionrelative:sistemainventarioapi.tests\\e2etests\\bibliotecae2etests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C70CF9E-534B-496E-B5F9-944A48F70979}|SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi.tests\\integrationtests\\bibliotecaintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C70CF9E-534B-496E-B5F9-944A48F70979}|SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj|solutionrelative:sistemainventarioapi.tests\\integrationtests\\bibliotecaintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C70CF9E-534B-496E-B5F9-944A48F70979}|SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi.tests\\sistemainventarioapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C70CF9E-534B-496E-B5F9-944A48F70979}|SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj|solutionrelative:sistemainventarioapi.tests\\sistemainventarioapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|solutionrelative:sistemainventarioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C70CF9E-534B-496E-B5F9-944A48F70979}|SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi.tests\\unittests\\bibliotecaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C70CF9E-534B-496E-B5F9-944A48F70979}|SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj|solutionrelative:sistemainventarioapi.tests\\unittests\\bibliotecaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi\\services\\bibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|solutionrelative:sistemainventarioapi\\services\\bibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|solutionrelative:sistemainventarioapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|solutionrelative:sistemainventarioapi\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|solutionrelative:sistemainventarioapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|solutionrelative:sistemainventarioapi\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|c:\\users\\angelica2\\desktop\\sistemainventarioapi\\sistemainventarioapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD9AC2-5EE8-4E56-C2DE-78A6BBDC5E29}|SistemaInventarioAPI\\SistemaInventarioAPI.csproj|solutionrelative:sistemainventarioapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecaE2ETests.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI.Tests\\E2ETests\\BibliotecaE2ETests.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI.Tests\\E2ETests\\BibliotecaE2ETests.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI.Tests\\E2ETests\\BibliotecaE2ETests.cs",
+              "RelativeToolTip": "SistemaInventarioAPI.Tests\\E2ETests\\BibliotecaE2ETests.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T03:31:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BibliotecaIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI.Tests\\IntegrationTests\\BibliotecaIntegrationTests.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI.Tests\\IntegrationTests\\BibliotecaIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI.Tests\\IntegrationTests\\BibliotecaIntegrationTests.cs",
+              "RelativeToolTip": "SistemaInventarioAPI.Tests\\IntegrationTests\\BibliotecaIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T03:12:59.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Program.cs",
+              "RelativeToolTip": "SistemaInventarioAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:50:02.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SistemaInventarioAPI.Tests",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj*",
+              "RelativeToolTip": "SistemaInventarioAPI.Tests\\SistemaInventarioAPI.Tests.csproj*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-12T02:37:53.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BibliotecaServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI.Tests\\UnitTests\\BibliotecaServiceTests.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI.Tests\\UnitTests\\BibliotecaServiceTests.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI.Tests\\UnitTests\\BibliotecaServiceTests.cs",
+              "RelativeToolTip": "SistemaInventarioAPI.Tests\\UnitTests\\BibliotecaServiceTests.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T02:41:01.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "SistemaInventarioAPI\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:56:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BibliotecaService.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Services\\BibliotecaService.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI\\Services\\BibliotecaService.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Services\\BibliotecaService.cs",
+              "RelativeToolTip": "SistemaInventarioAPI\\Services\\BibliotecaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:48:26.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI\\Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "SistemaInventarioAPI\\Controllers\\PrestamosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:14:06.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "SistemaInventarioAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:12:03.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI\\Models\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Models\\Prestamo.cs",
+              "RelativeToolTip": "SistemaInventarioAPI\\Models\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:08:11.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\angelica2\\Desktop\\SistemaInventarioAPI\\SistemaInventarioAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaInventarioAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:39:42.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
